@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        char ch = '0'+49;
+        System.out.println(ch);
     }
 }
