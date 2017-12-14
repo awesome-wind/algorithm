@@ -6,6 +6,9 @@ public class TransferDigitsIntoString_46_recursive {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long num = sc.nextLong();
+        if(num<0)
+            return ;
+
         String numStr = String.valueOf(num);
         char[] ch = numStr.toCharArray();
 
@@ -20,10 +23,12 @@ public class TransferDigitsIntoString_46_recursive {
         if(i>ch.length)
             return 0;
 
-        if (i == ch.length)
+        System.out.println("now i = "+i);
+
+        if (i == ch.length-1)
             return 1;
         else
-            return transferIntoStr(ch, i + 1) + judge(ch, i + 1, i + 2) * transferIntoStr(ch, i + 2);
+            return transferIntoStr(ch, i + 1) + judge(ch, i, i + 1) * transferIntoStr(ch, i + 2);
     }
 
     private static int judge(char[] ch, int i, int i1) {
