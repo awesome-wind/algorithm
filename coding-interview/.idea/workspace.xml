@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MaxStockProfit_63.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/MaxStockProfit_63.java">
+      <file leaf-file-name="ConstructArray_66.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter6/ConstructArray_66.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+            <state relative-caret-position="459">
+              <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -60,6 +60,8 @@
         <option value="$PROJECT_DIR$/src/chapter6/ContinusCards.java" />
         <option value="$PROJECT_DIR$/src/chapter6/LastNumberInCircle_62.java" />
         <option value="$PROJECT_DIR$/src/chapter6/MaxStockProfit_63.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/AddTwoNumber_65.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/ConstructArray_66.java" />
       </list>
     </option>
   </component>
@@ -169,7 +171,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxStockProfit_63">
+  <component name="RunManager" selected="Application.ConstructArray_66">
+    <configuration name="AddTwoNumber_65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter6.AddTwoNumber_65" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="coding-interview" />
+      <envs />
+    </configuration>
+    <configuration name="ConstructArray_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter6.ConstructArray_66" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="coding-interview" />
+      <envs />
+    </configuration>
     <configuration name="ContinusCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -178,44 +218,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter6.ContinusCards" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="coding-interview" />
-      <envs />
-    </configuration>
-    <configuration name="DicesProbability_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter6.DicesProbability_60" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="coding-interview" />
-      <envs />
-    </configuration>
-    <configuration name="DicesProbability_60_pro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter6.DicesProbability_60_pro" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -281,19 +283,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DicesProbability_60_pro" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ContinusCards" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MaxStockProfit_63" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ContinusCards" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MaxStockProfit_63" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AddTwoNumber_65" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ConstructArray_66" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MaxStockProfit_63" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ContinusCards" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DicesProbability_60_pro" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ConstructArray_66" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AddTwoNumber_65" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MaxStockProfit_63" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ContinusCards" />
       </list>
     </recent_temporary>
   </component>
@@ -322,15 +324,16 @@
       <workItem from="1515063091542" duration="5296000" />
       <workItem from="1515155940262" duration="370000" />
       <workItem from="1515412375358" duration="8825000" />
-      <workItem from="1515497093678" duration="3533000" />
+      <workItem from="1515497093678" duration="6095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60605000" />
+    <option name="totallyTimeSpent" value="63167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -343,7 +346,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23549488" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23549488" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -408,28 +411,18 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/ConstructArray_66.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter6/DicesProbability_60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/DicesProbability_60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/TwoNumSumIsK_57.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -813,10 +806,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/AddTwoNumber_65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/MaxStockProfit_63.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/ConstructArray_66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="16" />
           <folding />
         </state>
       </provider>
