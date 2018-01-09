@@ -33,14 +33,14 @@ public class LastNumberInCircle_62 {
         node current = null;
         while(head.next != head)
         {
-            for(int i = 0;i<k;i++) {
+            for(int i = 0;i<k-1;i++) {
                 if(head == head.next)
                     return head.val;
                 current = head;
                 head = head.next;
             }
             current.next = head.next;
-            print(head);
+//            print(head);
         }
         return current.val;
     }
