@@ -1,4 +1,4 @@
-package multiThread.produce_consume_model;
+package multiThread.wait_produce_consume;
 
 import java.util.ArrayList;
 import java.util.List;
